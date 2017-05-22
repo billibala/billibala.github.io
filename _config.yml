@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 
-description: Mac, iOS Engineer
+description: Mac • iOS Engineer
 title: Bill So
+google_analytics: UA-521076-1
+
 github.is_user_page: true
 github.is_project_page: false
